@@ -6,10 +6,10 @@ http://localhost:63440/api/ProductsHistories
 
 Body:
 {
-  "id": "ddd",
+  "id": "Record1",
   "timestamp": "2018-10-07 18:00:00",
   "products": [
-    { 
+    {
       "name": "Product1",
       "quantity": "1",
       "sale_amount": "1"
